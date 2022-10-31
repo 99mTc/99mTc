@@ -8,7 +8,6 @@ TECH SKILLS ⚡
 
 Contact 💌
   
-<a href="mailto:nasprout4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99mTc&layout=compact&theme=dark)
+<a href="mailto:nasprout4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a><br>
+<img src='https://github-readme-stats-99mTc.vercel.app/api/top-langs/?username=99mTc&layout=compact&theme=dark'>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lacina0638)](https://solved.ac/lacina0638/)
